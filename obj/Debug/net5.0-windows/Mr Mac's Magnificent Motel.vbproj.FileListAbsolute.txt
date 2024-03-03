@@ -1,0 +1,18 @@
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\bin\Debug\net5.0-windows\Mr Mac's Magnificent Motel.exe
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\bin\Debug\net5.0-windows\Mr Mac's Magnificent Motel.deps.json
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\bin\Debug\net5.0-windows\Mr Mac's Magnificent Motel.runtimeconfig.json
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\bin\Debug\net5.0-windows\Mr Mac's Magnificent Motel.runtimeconfig.dev.json
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\bin\Debug\net5.0-windows\Mr Mac's Magnificent Motel.dll
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\bin\Debug\net5.0-windows\ref\Mr Mac's Magnificent Motel.dll
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\bin\Debug\net5.0-windows\Mr Mac's Magnificent Motel.pdb
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\obj\Debug\net5.0-windows\Mr Mac's Magnificent Motel.vbprojAssemblyReference.cache
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\obj\Debug\net5.0-windows\Mr_Mac_s_Magnificent_Motel.Form1.resources
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\obj\Debug\net5.0-windows\Mr Mac's Magnificent Motel.vbproj.GenerateResource.cache
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\obj\Debug\net5.0-windows\Mr Mac's Magnificent Motel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\obj\Debug\net5.0-windows\Mr Mac's Magnificent Motel.AssemblyInfoInputs.cache
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\obj\Debug\net5.0-windows\Mr Mac's Magnificent Motel.AssemblyInfo.vb
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\obj\Debug\net5.0-windows\Mr Mac's Magnificent Motel.vbproj.CoreCompileInputs.cache
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\obj\Debug\net5.0-windows\Mr Mac's Magnificent Motel.dll
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\obj\Debug\net5.0-windows\ref\Mr Mac's Magnificent Motel.dll
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\obj\Debug\net5.0-windows\Mr Mac's Magnificent Motel.pdb
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\Mr Mac's Magnificent Motel\obj\Debug\net5.0-windows\Mr Mac's Magnificent Motel.genruntimeconfig.cache

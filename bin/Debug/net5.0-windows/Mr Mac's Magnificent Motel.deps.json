@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Mr Mac's Magnificent Motel/1.0.0": {
+        "runtime": {
+          "Mr Mac's Magnificent Motel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mr Mac's Magnificent Motel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
